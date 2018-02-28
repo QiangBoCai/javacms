@@ -32,7 +32,7 @@ CREATE TABLE `app`  (
 -- ----------------------------
 -- Records of app
 -- ----------------------------
-INSERT INTO `app` VALUES (1, 'MCMS-OPEN', 'http://localhost:8686/mcms\r\n', '', '', '', 'mooc', 50, '', NULL, 'm', NULL, '', 0, 0);
+INSERT INTO `app` VALUES (1, 'MCMS-OPEN', 'http://localhost:8080/mcms\r\n', '', '', '', 'mooc', 50, '', NULL, 'm', NULL, '', 0, 0);
 
 -- ----------------------------
 -- Table structure for basic
